@@ -16,6 +16,7 @@ To get started with head_phon_animation:
 3-Run the app on a simulator or physical device to experience the animated headphone presentation.
 
 ## Feedback and Contributions
-We welcome feedback and contributions from the Flutter community to help improve head_phon_animation. Feel free to submit issues, feature requests, or pull requests to contribute to the project's development.
+We welcome feedback and contributions from the Flutter community to help improve head_phon_animation. 
+Feel free to submit issues, feature requests, or pull requests to contribute to the project's development.
 
 Enjoy exploring headphone options with head_phon_animation!
